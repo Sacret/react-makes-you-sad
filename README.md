@@ -1,38 +1,38 @@
-# react-makes-you-sad
-Here’s a flowchart to make you happy again!
+# react-огорчает-тебя
+Эта блок-схема поможет тебе снова стать счастливым!
 
-## <a href='https://cdn.rawgit.com/gaearon/react-makes-you-sad/1377b6a6cdc644adfea6bf238f06c75d33ed6f1e/fatigue.svg' target='_blank'>Open in a new tab</a>
+## <a href='https://cdn.rawgit.com/Sacret/react-makes-you-sad/master/fatigue.svg' target='_blank'>Открыть в новой вкладке</a>
 
-<img src='https://cdn.rawgit.com/gaearon/react-makes-you-sad/1377b6a6cdc644adfea6bf238f06c75d33ed6f1e/fatigue.svg'>
+<img src='https://cdn.rawgit.com/Sacret/react-makes-you-sad/master/fatigue.svg'>
 
-## Credits
+## Благодарность
 
-Based on and inspired by https://github.com/petehunt/react-howto
+Основано и вдохновлено https://github.com/petehunt/react-howto
 
-## Links
+## Ссылки
 
-* If you are confused by the React ecosystem and don’t know where to start, read <a href="https://github.com/petehunt/react-howto" target="_blank">Pete Hunt’s react-howto guide</a>.
+* Если ты в замешательстве от экосистемы React и не знаешь, с чего начать, прочитай <a href="https://github.com/petehunt/react-howto" target="_blank">Pete Hunt’s react-howto guide</a>.
 
-* If you are using a Flux library (or Redux) and it adds a lot of boilerplate for no obvious gain, remove it and learn state management in vanilla React with the official <a href="https://facebook.github.io/react/docs/thinking-in-react.html" target="_blank">Thinking in React</a> guide.
+* Если ты используешь библиотеку Flux (или Redux), и она добавляет множество шаблонов без видимой выгоды, удали её и изучай поведение состояния на чистом React с помощью официальной документации <a href="https://facebook.github.io/react/docs/thinking-in-react.html" target="_blank">Thinking in React</a>.
 
-* If you don’t feel confortable using ES2015 features (e.g. classes and fat arrows) and you feel like updating your JavaScript knowledge, <a href="https://leanpub.com/understandinges6/read" target="_blank">Understanding ECMAScript 6</a> is an amazing guide. Use <a href="https://babeljs.io/repl/" target="_blank">Babel</a> to verify your assumptions.
+* Если ты не чувствуешь себя уверенно, используя возможности ES2015 (например, классы и => стрелки) и ты только изучаешь JavaScript, то <a href="https://leanpub.com/understandinges6/read" target="_blank">Understanding ECMAScript 6</a> тебе отлично поможет. Используй <a href="https://babeljs.io/repl/" target="_blank">Babel</a> для самопроверки.
 
-* If you are just learning React, and a JavaScript bundler like Webpack confuses you, copy <a href="https://github.com/jarsbe/react-simple" target="_blank">jarsbe/react-simple</a> and start hacking with no build step.
+* Если ты только изучаешь React, и компоновщик JavaScript, например, Webpack тебя смущает, скопируй <a href="https://github.com/jarsbe/react-simple" target="_blank">jarsbe/react-simple</a> и начни кодить без лишних сборок.
 
-* After you’ve learned React itself you can begin learning good deployment practices such as using JavaScript bundlers. Use [Google Page Speed](https://developers.google.com/speed/pagespeed/) to assess how well your app delivers the client code.
+* После того, как изучишь сам React, можешь начать изучение передового опыта, такого как JavaScript-компоновщики. Используй [Google Page Speed](https://developers.google.com/speed/pagespeed/) для проверки, насколько хорошо твой приложение отдает клиентский код.
 
-## Contributing
+## Участие в разработке
 
-1. Edit the `.dot` file with https://atom.io/packages/graphviz-preview
-2. Install `dot` from http://www.graphviz.org/Download.php
-2. Install `dot`, a part of [Graphviz](http://www.graphviz.org/).
-  * On OSX with [Homebrew](http://www.brew.sh), merely do `brew install graphviz`.
-  * Otherwise, it's probably in your OS's package repositories as simply `graphviz`.
-  * You can also get an installer from the [Graphviz downloads page](http://www.graphviz.org/Download.php).
-3. Generate the `.svg` with `dot -Tsvg fatigue.dot > fatigue.svg`
-4. Send a PR!
+1. Релактируй `.dot` файл с помощью https://atom.io/packages/graphviz-preview
+2. Установи `dot` из http://www.graphviz.org/Download.php
+2. Установи `dot`, частьf [Graphviz](http://www.graphviz.org/).
+  * На OSX с [Homebrew](http://www.brew.sh), всего лишь выполни `brew install graphviz`.
+  * В противном случае, поищи пакет в своей ОС под именем `graphviz`.
+  * Также ты можешь получить установщик на странице [Graphviz downloads](http://www.graphviz.org/Download.php).
+3. Сгенерируй `.svg` с помощью `dot -Tsvg fatigue.dot > fatigue.svg`
+4. Отправь пулл-реквест!
 
-## Translation
+## Переводы
 
 - [Français](https://github.com/matteodelabre/react-vous-rend-triste)
 - [Portuguese](https://github.com/brunogenaro/react-makes-you-sad)
@@ -42,6 +42,6 @@ Based on and inspired by https://github.com/petehunt/react-howto
 - [한국어](https://github.com/ehrudxo/react-makes-you-sad)
 - [日本語](https://github.com/kuy/react-makes-you-sad)
 
-## License
+## Лицензия
 
 [CC0](https://wiki.creativecommons.org/wiki/CC0)
