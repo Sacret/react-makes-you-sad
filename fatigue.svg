@@ -206,15 +206,15 @@
 </g>
 <!-- do_you_know_es2015 -->
 <g id="node13" class="node"><title>do_you_know_es2015</title>
-<polygon fill="none" stroke="black" points="636,-1596 399,-1543 636,-1490 873,-1543 636,-1596"/>
+<polygon fill="none" stroke="black" points="636,-1596 343,-1543 636,-1490 929,-1543 636,-1596"/>
 <text text-anchor="middle" x="636" y="-1554.3" font-family="Times,serif" font-size="14.00">Тебе удобно</text>
 <text text-anchor="middle" x="636" y="-1539.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;использовать возможности ES2015</text>
-<text text-anchor="middle" x="636" y="-1524.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;(к примеру, классы и =&gt; стрелки)?</text>
+<text text-anchor="middle" x="636" y="-1524.3" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;(к примеру, классы и стрелочные функции)?</text>
 </g>
 <!-- are_you_working_on_production_app_with_bundler&#45;&gt;do_you_know_es2015 -->
 <g id="edge16" class="edge"><title>are_you_working_on_production_app_with_bundler&#45;&gt;do_you_know_es2015</title>
-<path fill="none" stroke="black" d="M387.496,-1834.65C376.803,-1818.54 365.471,-1798.21 360,-1778 343.276,-1716.22 322.409,-1685.8 360,-1634 385.747,-1598.52 425.857,-1576.76 467.599,-1563.5"/>
-<polygon fill="black" stroke="black" points="468.813,-1566.79 477.377,-1560.55 466.792,-1560.08 468.813,-1566.79"/>
+<path fill="none" stroke="black" d="M387.496,-1834.65C376.803,-1818.54 365.471,-1798.21 360,-1778 343.276,-1716.22 322.409,-1685.8 360,-1634 382.827,-1602.55 416.942,-1581.88 453.476,-1568.35"/>
+<polygon fill="black" stroke="black" points="455.047,-1571.5 463.322,-1564.89 452.727,-1564.9 455.047,-1571.5"/>
 <text text-anchor="middle" x="367" y="-1702.3" font-family="Times,serif" font-size="14.00">да</text>
 </g>
 <!-- remove_bundler -->
@@ -238,8 +238,8 @@
 </g>
 <!-- are_you_working_on_production_app_without_bundler&#45;&gt;do_you_know_es2015 -->
 <g id="edge19" class="edge"><title>are_you_working_on_production_app_without_bundler&#45;&gt;do_you_know_es2015</title>
-<path fill="none" stroke="black" d="M760.402,-1839.72C736.994,-1824.46 710.615,-1803.38 694,-1778 693.385,-1777.06 667.545,-1672.29 650.567,-1603.27"/>
-<polygon fill="black" stroke="black" points="653.917,-1602.24 648.13,-1593.36 647.12,-1603.91 653.917,-1602.24"/>
+<path fill="none" stroke="black" d="M760.402,-1839.72C736.994,-1824.46 710.615,-1803.38 694,-1778 693.387,-1777.06 667.689,-1672.87 650.708,-1603.85"/>
+<polygon fill="black" stroke="black" points="654.058,-1602.81 648.27,-1593.94 647.26,-1604.48 654.058,-1602.81"/>
 <text text-anchor="middle" x="704" y="-1702.3" font-family="Times,serif" font-size="14.00">нет</text>
 </g>
 <!-- add_bundler -->
@@ -278,8 +278,8 @@
 </g>
 <!-- do_you_know_es2015&#45;&gt;use_es5 -->
 <g id="edge22" class="edge"><title>do_you_know_es2015&#45;&gt;use_es5</title>
-<path fill="none" stroke="black" d="M632.924,-1490.59C629.853,-1439.25 625.047,-1358.92 621.184,-1294.36"/>
-<polygon fill="black" stroke="black" points="624.664,-1293.92 620.573,-1284.14 617.676,-1294.33 624.664,-1293.92"/>
+<path fill="none" stroke="black" d="M632.901,-1490.21C629.831,-1438.89 625.043,-1358.86 621.191,-1294.48"/>
+<polygon fill="black" stroke="black" points="624.672,-1294.06 620.581,-1284.29 617.685,-1294.48 624.672,-1294.06"/>
 <text text-anchor="middle" x="641" y="-1460.3" font-family="Times,serif" font-size="14.00">нет</text>
 </g>
 <!-- are_you_using_dangerous_features -->
@@ -292,19 +292,19 @@
 </g>
 <!-- do_you_know_es2015&#45;&gt;are_you_using_dangerous_features -->
 <g id="edge23" class="edge"><title>do_you_know_es2015&#45;&gt;are_you_using_dangerous_features</title>
-<path fill="none" stroke="black" d="M690.8,-1502.12C722.567,-1479.01 762.981,-1449.6 797.482,-1424.5"/>
-<polygon fill="black" stroke="black" points="799.632,-1427.26 805.658,-1418.55 795.513,-1421.6 799.632,-1427.26"/>
+<path fill="none" stroke="black" d="M693.487,-1500.17C724.679,-1477.47 763.582,-1449.16 797.013,-1424.84"/>
+<polygon fill="black" stroke="black" points="799.36,-1427.46 805.387,-1418.74 795.242,-1421.8 799.36,-1427.46"/>
 <text text-anchor="middle" x="760" y="-1460.3" font-family="Times,serif" font-size="14.00">да</text>
 </g>
 <!-- remove_bundler&#45;&gt;do_you_know_es2015 -->
 <g id="edge21" class="edge"><title>remove_bundler&#45;&gt;do_you_know_es2015</title>
-<path fill="none" stroke="black" d="M568.634,-1634.38C578.048,-1621.75 587.709,-1608.79 596.668,-1596.77"/>
-<polygon fill="black" stroke="black" points="599.578,-1598.72 602.748,-1588.61 593.965,-1594.54 599.578,-1598.72"/>
+<path fill="none" stroke="black" d="M568.634,-1634.38C577.654,-1622.28 586.899,-1609.88 595.538,-1598.29"/>
+<polygon fill="black" stroke="black" points="598.54,-1600.12 601.709,-1590.01 592.927,-1595.93 598.54,-1600.12"/>
 </g>
 <!-- add_bundler&#45;&gt;do_you_know_es2015 -->
 <g id="edge20" class="edge"><title>add_bundler&#45;&gt;do_you_know_es2015</title>
-<path fill="none" stroke="black" d="M778.796,-1641.83C753.031,-1624.18 725.561,-1605.36 701.668,-1588.99"/>
-<polygon fill="black" stroke="black" points="703.603,-1586.07 693.375,-1583.31 699.646,-1591.85 703.603,-1586.07"/>
+<path fill="none" stroke="black" d="M778.796,-1641.83C754.059,-1624.88 727.752,-1606.86 704.547,-1590.96"/>
+<polygon fill="black" stroke="black" points="706.374,-1587.97 696.146,-1585.21 702.418,-1593.75 706.374,-1587.97"/>
 </g>
 <!-- do_you_update_packages_asap -->
 <g id="node18" class="node"><title>do_you_update_packages_asap</title>
@@ -373,7 +373,7 @@
 <text text-anchor="middle" x="1053" y="-474.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;сообществами, React тщательно тестируется</text>
 <text text-anchor="middle" x="1053" y="-459.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;в Facebook.</text>
 <text text-anchor="middle" x="1053" y="-444.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;Следи за примечаниями к релизу, ведь они</text>
-<text text-anchor="middle" x="1053" y="-429.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;ссылаются на отрывки кода, которыt</text>
+<text text-anchor="middle" x="1053" y="-429.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;ссылаются на отрывки кода, которые</text>
 <text text-anchor="middle" x="1053" y="-414.8" font-family="Times,serif" font-size="14.00"> &#160;&#160;&#160;автоматизируют часть миграции за тебя.</text>
 </g>
 <!-- do_you_update_packages_asap&#45;&gt;consider_updating_react -->

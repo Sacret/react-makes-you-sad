@@ -168,7 +168,7 @@ digraph {
     shape="diamond",
     label="Тебе удобно
     использовать возможности ES2015
-    (к примеру, классы и => стрелки)?"
+    (к примеру, классы и стрелочные функции)?"
   ]
   do_you_know_es2015 -> use_es5[label="нет"]
   do_you_know_es2015 -> are_you_using_dangerous_features[label="да"]

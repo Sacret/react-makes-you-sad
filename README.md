@@ -15,7 +15,7 @@
 
 * Если ты используешь библиотеку Flux (или Redux), и она добавляет множество шаблонов без видимой выгоды, удали её и изучай поведение состояния на чистом React с помощью официальной документации <a href="https://facebook.github.io/react/docs/thinking-in-react.html" target="_blank">Thinking in React</a>.
 
-* Если ты не чувствуешь себя уверенно, используя возможности ES2015 (например, классы и => стрелки) и ты только изучаешь JavaScript, то <a href="https://leanpub.com/understandinges6/read" target="_blank">Understanding ECMAScript 6</a> тебе отлично поможет. Используй <a href="https://babeljs.io/repl/" target="_blank">Babel</a> для самопроверки.
+* Если ты не чувствуешь себя уверенно, используя возможности ES2015 (например, классы и стрелочные функции) и ты только изучаешь JavaScript, то <a href="https://leanpub.com/understandinges6/read" target="_blank">Understanding ECMAScript 6</a> тебе отлично поможет. Используй <a href="https://babeljs.io/repl/" target="_blank">Babel</a> для самопроверки.
 
 * Если ты только изучаешь React, и компоновщик JavaScript, например, Webpack тебя смущает, скопируй <a href="https://github.com/jarsbe/react-simple" target="_blank">jarsbe/react-simple</a> и начни кодить без лишних сборок.
 
